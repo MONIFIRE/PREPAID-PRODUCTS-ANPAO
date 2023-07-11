@@ -5,13 +5,12 @@ import random
 import json
 import os
 from discord.ui import Button, View
-from bs4 import BeautifulSoup
 from discord import app_commands,ui
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
 
-MYGUILD = discord.Object(id=1114949386619850762)
+MYGUILD = discord.Object(id=1114949386619850762) # uid เซิฟเวอร์คุณ
 
 class MyClient(discord.Client):
     def __init__(self, *, intents: discord.Intents):
