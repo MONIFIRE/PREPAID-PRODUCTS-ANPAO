@@ -1,3 +1,5 @@
+บอท discord เติมเงิน,ขาย
+
 API TRUEMONEY WALLET URL : https://www.tmweasy.com/
 สมัคร username,passowrd URL: https://www.tmweasy.com/register.php
 นำ username,password ไปใสในไฟล์ json หลังจากสมัครเรียบร้อยเเล้ว 
